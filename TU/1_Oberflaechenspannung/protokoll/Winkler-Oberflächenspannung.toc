@@ -1,0 +1,16 @@
+\contentsline {section}{Inhaltsverzeichnis}{2}
+\contentsline {section}{\numberline {1}Aufgabenstellung}{3}
+\contentsline {section}{\numberline {2}Grundlagen}{3}
+\contentsline {section}{\numberline {3}Beschreibung der Versuchsanordnung}{4}
+\contentsline {section}{\numberline {4}Ger\IeC {\"a}teliste}{5}
+\contentsline {section}{\numberline {5}Versuchsdurchf\IeC {\"u}hrung und Messergebnisse}{6}
+\contentsline {subsection}{\numberline {5.1}Abrei\IeC {\ss }methode}{6}
+\contentsline {subsection}{\numberline {5.2}Kapillarenmethode}{6}
+\contentsline {section}{\numberline {6}Auswertung}{8}
+\contentsline {subsection}{\numberline {6.1}Abrei\IeC {\ss }methode: Berechnung}{8}
+\contentsline {subsection}{\numberline {6.2}Abrei\IeC {\ss }methode: Gr\IeC {\"o}\IeC {\ss }tunsicherheitsmethode}{8}
+\contentsline {subsection}{\numberline {6.3}Kapillarenmethode: Berechnung der Innenradien}{9}
+\contentsline {subsection}{\numberline {6.4}Kapillarenmethode: Berechnung der Oberfl\IeC {\"a}chenspannung}{9}
+\contentsline {subsection}{\numberline {6.5}Kapillarenmethode: Gr\IeC {\"o}\IeC {\ss }tunsicherheitsmethode}{10}
+\contentsline {section}{\numberline {7}Zusammenfassung und Diskussion}{12}
+\contentsline {section}{\numberline {8}Literaturverzeichnis}{12}

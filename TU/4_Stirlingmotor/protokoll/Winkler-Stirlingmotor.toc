@@ -1,0 +1,16 @@
+\contentsline {section}{Inhaltsverzeichnis}{2}
+\contentsline {section}{\numberline {1}Aufgabenstellung}{3}
+\contentsline {section}{\numberline {2}Beschreibung der Versuchsanordnung}{3}
+\contentsline {section}{\numberline {3}Versuchsaufbauten}{4}
+\contentsline {section}{\numberline {4}Ger\IeC {\"a}teliste}{6}
+\contentsline {section}{\numberline {5}Versuchsdurchf\IeC {\"u}hrung und Messergebnisse}{7}
+\contentsline {section}{\numberline {6}Auswertung}{9}
+\contentsline {subsection}{\numberline {6.1}pV-Diagramme und Arbeit pro Zyklus}{9}
+\contentsline {subsection}{\numberline {6.2}Drehzahl und abgegebene Leistung}{10}
+\contentsline {subsection}{\numberline {6.3}Zugef\IeC {\"u}hrte Energie beim Heizen}{11}
+\contentsline {subsection}{\numberline {6.4}Energiebilanz im K\IeC {\"u}hlwasser}{11}
+\contentsline {subsection}{\numberline {6.5}Drehmoment}{12}
+\contentsline {subsection}{\numberline {6.6}Wirkungsgrad}{12}
+\contentsline {section}{\numberline {7}Zusammenfassung}{14}
+\contentsline {section}{\numberline {8}Diskussion}{14}
+\contentsline {section}{\numberline {9}Literaturverzeichnis}{15}
